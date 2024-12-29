@@ -1,0 +1,59 @@
+[
+    {
+      "title": "DiAIGen",
+      "desc": "DiAIGen is an AI Based Website Builder which aims to develop multi-page static websites for users who do not have coding knowledge.",
+      "url": "https://diaigen.rf.gd",
+      "tech": "HTML CSS JS PHP MySQL OpenAI-Models"
+    },
+    {
+      "title": "CodersCafe Club",
+      "desc": "Developed this amazing website for CodersCafe Club of Dr. B.R. Ambedkar Polytechnic College, Gwalior. This website is specifically developed for CSE & IT students of our college.",
+      "url": "https://coders-cafe.in",
+      "tech": "HTML CSS JS Bootstrap PHP Ajax MySQL Other-Libs"
+    },
+    {
+      "title": "Musiconi",
+      "desc": "I have built my own music playing website which utilizes an API in order to fetch the music dymanically.",
+      "url": "https://musiconi.web.app",
+      "tech": "HTML CSS JS Bootstrap"
+    },
+    {
+      "title": "CSE Notes",
+      "desc": "I have built my own notes taking dynamic website, which is capable of writing personal as well as public notes/articles.",
+      "url": "https://csenotes.rf.gd",
+      "tech": "HTML CSS JS Bootstrap PHP Ajax MySQL"
+    },
+    {
+      "title": "citiWebCast Weather",
+      "desc": "This webapp provides the weather details of cities across the globe using APIs.",
+      "url": "https://citiwebcast.web.app",
+      "tech": "HTML CSS JS Bootstrap APIs"
+    },
+    {
+      "title": "BigOofCode Website",
+      "desc": "This is a Dynamic Website based on PHP Stack. I have added Login, Logout, New User Registration & many more dynamic functionalities.",
+      "url": "https://ashstudy.rf.gd/anurag/projects/BigOofCode",
+      "tech": "HTML CSS Bootstrap PHP MySQL"
+    },
+    {
+      "title": "ASH Study Website",
+      "desc": "This is the updated version of ASH Study Website. I have made it much better.",
+      "url": "https://ashstudy.rf.gd",
+      "tech": "HTML CSS JS Bootstrap PHP"
+    },
+    {
+      "title": "Portfolio",
+      "desc": "I have made my Personal Portfolio Web-Page. In this project I have learned so many new things. This project is much more structured than my earlier projects.",
+      "url": "https://vishanurag.github.io",
+      "tech": "HTML CSS JS Bootstrap"
+    },
+    {
+      "title": "Basic Calculator",
+      "desc": "It was my first Calculator Web-Page. It is capable of doing Basic Mathematical Calculations. I made this project just after my third-sem exams back in Jan 2023.",
+      "url": "https://ashstudy.rf.gd/anurag/projects/basic-calculator",
+      "tech": "HTML CSS JS"
+    }
+   
+   
+  ]
+  
